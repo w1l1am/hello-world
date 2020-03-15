@@ -1,2 +1,7 @@
 # hello-world
-this is my first repositry. It will not contain that much!
+
+Hello there,
+
+this has no purpose at all, im only telling you this because 
+the tutorial told me so!
+
